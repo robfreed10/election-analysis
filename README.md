@@ -30,4 +30,4 @@ The analysis of the election shows that:
       - Raymon Anthony Doane received 3.1% of the popular vote (11,606 votes casted)
    
   The winner of the election was:
-    - Diana DeGette who receieved 73.8% of the popular vote (272,892 votes out of 369,711)
+    Diana DeGette who receieved 73.8% of the popular vote (272,892 votes out of 369,711)
