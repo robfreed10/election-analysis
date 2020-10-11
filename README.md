@@ -20,9 +20,9 @@ The purpose of this audit was to determine which candidate was the winner of the
 This election audit brought about significant results for the counties involved in this congressional election. 
  
       - There were 369,711 votes in this congressional election
-      - Jefferson County had 10.5% (38,855 of 369,711) of total popular vote
-      - Denver County had 82.8% (306,055 of 369,711) of total popular vote
-      - Arapahoe County had 6.7% (24,801 of 369,711) of total popular vote 
+      - Jefferson County had 10.5% (38,855 votes casted) of the total popular vote
+      - Denver County had 82.8% (306,055 votes casted) of the total popular vote
+      - Arapahoe County had 6.7% (24,801 votes casted) of the total popular vote 
       
 Denver County had the largest voter turnout when compared to the other two counties involved in the election. 
 
